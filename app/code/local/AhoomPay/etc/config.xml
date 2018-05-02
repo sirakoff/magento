@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <AhoomPay>
+            <version>0.0.0</version>
+        </AhoomPay>
+    </modules>
+    <global>
+        <fieldsets>
+            <sales_convert_quote_payment>
+                <payment_type>
+                    <to_order_payment>*</to_order_payment>
+                </payment_type>
+                <payer_account_id>
+                    <to_order_payment>*</to_order_payment>
+                </payer_account_id>
+                <payer_account_email>
+                    <to_order_payment>*</to_order_payment>
+                </payer_account_email>
+                <payer_transaction_no>
+                    <to_order_payment>*</to_order_payment>
+                </payer_transaction_no>
+                <payer_transaction_status>
+                    <to_order_payment>*</to_order_payment>
+                </payer_transaction_status>
+            </sales_convert_quote_payment>
+        </fieldsets>
+        <helpers>
+            <AhoomPay>
+                <class>AhoomPay_Helper</class>
+            </AhoomPay>
+        </helpers>
+
+        <blocks>
+            <AhoomPay>
+                <class>AhoomPay_Block</class>
+            </AhoomPay>
+        </blocks>
+
+        <models>
+            <AhoomPay>
+                <class>AhoomPay_Model</class>
+            </AhoomPay>
+        </models>
+
+        <resources>
+            <ahoompay_setup>
+                <setup>
+                    <module>AhoomPay</module>
+                </setup>
+            </ahoompay_setup>
+        </resources>
+    </global>
+    <default>
+        <payment>
+            <ahoom_pay>
+                <active>1</active>
+                <model>AhoomPay_Model_Pay</model>
+                <order_status>pending</order_status>
+                <title>AhoomPay</title>
+                <allowspecific>0</allowspecific>
+                <payment_action>sale</payment_action>
+            </ahoom_pay>
+        </payment>
+    </default>
+</config>

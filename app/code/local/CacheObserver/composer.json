@@ -1,0 +1,19 @@
+{
+    "name": "sirakov/cache-observer",
+    "description": "Magento Redis Cache Observer",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Sirakov",
+            "email": "dsirakoff@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/cache": "~5.1.0",
+        "illuminate/container": "~5.1.0",
+        "illuminate/filesystem": "~5.1.0",
+        "illuminate/redis": "~5.1.0",
+        "predis/predis": "^1.0"
+    }
+}

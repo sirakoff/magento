@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CacheObserver>
+            <version>0.0.1</version>
+        </CacheObserver>
+    </modules>
+    <adminhtml>
+        <events>
+            <catalog_product_save_after><!-- observe the event -->
+                <observers>
+                    <cache_observer>
+                        <class>CacheObserver_Model_Observer</class>
+                        <method>reload</method>
+                    </cache_observer>
+                </observers>
+            </catalog_product_save_after>
+        </events>
+    </adminhtml>
+</config>
