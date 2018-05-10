@@ -262,3 +262,2852 @@
     [__pid] => 1
 )
 
+2018-05-04T08:31:56+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""/><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8"?><res:ErrorResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com err-res.xsd'>
+    <Response>
+        <ServiceHeader>
+            <MessageTime>2018-05-04T10:31:56+01:00</MessageTime>
+            <SiteID>AHOOMSTORE</SiteID>
+            <Password>AHOOMSTORE</Password>
+        </ServiceHeader>
+        <Status>
+            <ActionStatus>Error</ActionStatus>
+            <Condition>
+                <ConditionCode>111</ConditionCode>
+                <ConditionData>Error in parsing request XML:Error: The
+                    content of element type &quot;Pieces&quot; is
+                    incomplete, it must match
+                    &quot;(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)&quot;.
+                    at line 2, column 657</ConditionData>
+            </Condition>
+        </Status>
+    </Response></res:ErrorResponse><!-- ServiceInvocationId:20180504103156_42d7_52da4962-03e9-4e72-96e2-5d8fbf48c089 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:31:56+00:00 DEBUG (7): Array
+(
+    [111] => Error #111 : Error in parsing request XML:Error: The
+                    content of element type "Pieces" is
+                    incomplete, it must match
+                    "(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)".
+                    at line 2, column 657
+    [__pid] => 1
+)
+
+2018-05-04T08:32:08+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.2</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T10:32:08.450+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504103208_42d7_e80e6029-1bc9-4ec0-9fe0-a884dc0774db -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:32:08+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T08:39:34+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.2</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T10:39:33.988+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504103933_96ab_76394264-3c87-466c-b1d3-fdcdf0cce2e0 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:39:34+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T08:46:48+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.2</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T10:46:48.138+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504104647_42d7_04a0ab6e-77d8-42b8-8949-a6f2d71d0995 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:46:48+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T08:50:34+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""/><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8"?><res:ErrorResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com err-res.xsd'>
+    <Response>
+        <ServiceHeader>
+            <MessageTime>2018-05-04T10:50:34+01:00</MessageTime>
+            <SiteID>AHOOMSTORE</SiteID>
+            <Password>AHOOMSTORE</Password>
+        </ServiceHeader>
+        <Status>
+            <ActionStatus>Error</ActionStatus>
+            <Condition>
+                <ConditionCode>111</ConditionCode>
+                <ConditionData>Error in parsing request XML:Error: The
+                    content of element type &quot;Pieces&quot; is
+                    incomplete, it must match
+                    &quot;(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)&quot;.
+                    at line 2, column 657</ConditionData>
+            </Condition>
+        </Status>
+    </Response></res:ErrorResponse><!-- ServiceInvocationId:20180504105034_7837_fa37b756-6367-4d5a-afb6-309ee39a72ed -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:50:34+00:00 DEBUG (7): Array
+(
+    [111] => Error #111 : Error in parsing request XML:Error: The
+                    content of element type "Pieces" is
+                    incomplete, it must match
+                    "(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)".
+                    at line 2, column 657
+    [__pid] => 1
+)
+
+2018-05-04T08:50:47+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.2</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T10:50:47.840+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504105047_7837_1be2ad3f-d041-4ab2-ae89-c9db10ac3bd6 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T08:50:47+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T09:07:11+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""/><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8"?><res:ErrorResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com err-res.xsd'>
+    <Response>
+        <ServiceHeader>
+            <MessageTime>2018-05-04T11:07:11+01:00</MessageTime>
+            <SiteID>AHOOMSTORE</SiteID>
+            <Password>AHOOMSTORE</Password>
+        </ServiceHeader>
+        <Status>
+            <ActionStatus>Error</ActionStatus>
+            <Condition>
+                <ConditionCode>111</ConditionCode>
+                <ConditionData>Error in parsing request XML:Error: The
+                    content of element type &quot;Pieces&quot; is
+                    incomplete, it must match
+                    &quot;(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)&quot;.
+                    at line 2, column 657</ConditionData>
+            </Condition>
+        </Status>
+    </Response></res:ErrorResponse><!-- ServiceInvocationId:20180504110711_42d7_02db0b07-546f-4353-8c69-f00c47af2e78 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T09:07:11+00:00 DEBUG (7): Array
+(
+    [111] => Error #111 : Error in parsing request XML:Error: The
+                    content of element type "Pieces" is
+                    incomplete, it must match
+                    "(Piece,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?,Piece?)".
+                    at line 2, column 657
+    [__pid] => 1
+)
+
+2018-05-04T12:01:13+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.6</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:01:13.214+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504140112_42d7_f081f13a-299b-4f43-baaa-e2a716b15acb -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:01:13+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:01:37+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:01:37.447+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504140137_7837_42698ebd-2e1b-45c6-be9f-abe4cda0c324 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:01:37+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:01:44+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.6</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:01:44.234+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504140144_f701_8c13ea34-19e3-4f2c-b84b-8c930ed199c4 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:01:44+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:02:39+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>7.6</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:02:39.506+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504140239_96ab_ec84e6f2-e036-4341-8a75-fd5807f5b426 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:02:39+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:06:20+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:06:20.831+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504140620_96ab_4b9c1ce0-2b61-41fc-bda8-d3fb9383fc42 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:06:20+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:32:41+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.04</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:32:41.452+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504143241_42d7_54c4f3f3-de44-41c7-afc7-2d393348dbf5 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:32:41+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T12:32:51+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T14:32:50.995+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504143250_72ec_60c4cf45-a1bf-414b-8158-b4a5e6387334 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T12:32:51+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T16:16:57+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>US</CountryCode><Postalcode>60649</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T18:16:57.003+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <BkgDetails>
+            <OriginServiceArea>
+                <FacilityCode>ACC</FacilityCode>
+                <ServiceAreaCode>ACC</ServiceAreaCode>
+            </OriginServiceArea>
+            <DestinationServiceArea>
+                <FacilityCode>MDW</FacilityCode>
+                <ServiceAreaCode>ORD</ServiceAreaCode>
+            </DestinationServiceArea>
+            <QtdShp>
+                <GlobalProductCode>D</GlobalProductCode>
+                <LocalProductCode>D</LocalProductCode>
+                <ProductShortName>EXPRESS WORLDWIDE</ProductShortName>
+                <LocalProductName>EXPRESS WORLDWIDE DOC</LocalProductName>
+                <NetworkTypeCode>TD</NetworkTypeCode>
+                <POfferedCustAgreement>N</POfferedCustAgreement>
+                <TransInd>Y</TransInd>
+                <PickupDate>2018-05-04</PickupDate>
+                <PickupCutoffTime>PT17H</PickupCutoffTime>
+                <BookingTime>PT16H</BookingTime>
+                <CurrencyCode>GHS</CurrencyCode>
+                <ExchangeRate>0.222222</ExchangeRate>
+                <WeightCharge>86.360</WeightCharge>
+                <WeightChargeTax>12.860</WeightChargeTax>
+                <TotalTransitDays>4</TotalTransitDays>
+                <PickupPostalLocAddDays>0</PickupPostalLocAddDays>
+                <DeliveryPostalLocAddDays>0</DeliveryPostalLocAddDays>
+                <PickupNonDHLCourierCode> </PickupNonDHLCourierCode>
+                <DeliveryNonDHLCourierCode> </DeliveryNonDHLCourierCode>
+                <DeliveryDate>2018-05-08</DeliveryDate>
+                <DeliveryTime>PT23H59M</DeliveryTime>
+                <DimensionalWeight>0.400</DimensionalWeight>
+                <WeightUnit>KG</WeightUnit>
+                <PickupDayOfWeekNum>5</PickupDayOfWeekNum>
+                <DestinationDayOfWeekNum>2</DestinationDayOfWeekNum>
+                <QtdShpExChrg>
+                    <SpecialServiceType>FF</SpecialServiceType>
+                    <LocalServiceType>FF</LocalServiceType>
+                    <GlobalServiceName>FUEL SURCHARGE</GlobalServiceName>
+                    <LocalServiceTypeName>FUEL SURCHARGE</LocalServiceTypeName>
+                    <SOfferedCustAgreement>N</SOfferedCustAgreement>
+                    <ChargeCodeType>SCH</ChargeCodeType>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <ChargeValue>8.640</ChargeValue>
+                    <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                    <ChargeTaxAmountDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <TaxAmount>1.290</TaxAmount>
+                        <BaseAmount>7.350</BaseAmount>
+                    </ChargeTaxAmountDet>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>8.640</ChargeValue>
+                        <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                        <CurrencyCode>GHS</CurrencyCode>
+                        <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>1.290</TaxAmount>
+                            <BaseAmount>7.350</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>8.640</ChargeValue>
+                        <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                        <CurrencyCode>GHS</CurrencyCode>
+                        <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>1.290</TaxAmount>
+                            <BaseAmount>7.350</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>1.920</ChargeValue>
+                        <ChargeTaxRate>17.500</ChargeTaxRate>
+                        <ChargeTaxAmount>0.290</ChargeTaxAmount>
+                        <CurrencyCode>USD</CurrencyCode>
+                        <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>0.290</TaxAmount>
+                            <BaseAmount>1.630</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                </QtdShpExChrg>
+                <PricingDate>2018-05-04</PricingDate>
+                <ShippingCharge>95.000</ShippingCharge>
+                <TotalTaxAmount>14.150</TotalTaxAmount>
+                <TotalDiscount>26.950</TotalDiscount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                    <WeightCharge>86.360</WeightCharge>
+                    <TotalAmount>95.000</TotalAmount>
+                    <TotalTaxAmount>14.150</TotalTaxAmount>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>12.860</WeightChargeTax>
+                        <BaseAmt>73.500</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <TotalDiscount>26.950</TotalDiscount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                    <WeightCharge>86.360</WeightCharge>
+                    <TotalAmount>95.000</TotalAmount>
+                    <TotalTaxAmount>14.150</TotalTaxAmount>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>12.860</WeightChargeTax>
+                        <BaseAmt>73.500</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <TotalDiscount>5.990</TotalDiscount>
+                <QtdSInAdCur>
+                    <ExchangeRate>0.222222</ExchangeRate>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                    <WeightCharge>19.190</WeightCharge>
+                    <TotalAmount>21.110</TotalAmount>
+                    <TotalTaxAmount>3.140</TotalTaxAmount>
+                    <WeightChargeTax>2.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>2.860</WeightChargeTax>
+                        <BaseAmt>16.330</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <WeightChargeTaxDet>
+                    <TaxTypeRate>17.500</TaxTypeRate>
+                    <TaxTypeCode>VAT</TaxTypeCode>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <BaseAmt>73.500</BaseAmt>
+                </WeightChargeTaxDet>
+            </QtdShp>
+            <QtdShp>
+                <GlobalProductCode>7</GlobalProductCode>
+                <LocalProductCode>7</LocalProductCode>
+                <ProductShortName>EXPRESS EASY</ProductShortName>
+                <LocalProductName>EXPRESS EASY DOC</LocalProductName>
+                <NetworkTypeCode>TD</NetworkTypeCode>
+                <POfferedCustAgreement>Y</POfferedCustAgreement>
+                <TransInd>N</TransInd>
+                <PickupDate>2018-05-04</PickupDate>
+                <PickupCutoffTime>PT17H</PickupCutoffTime>
+                <BookingTime>PT16H</BookingTime>
+                <CurrencyCode>GHS</CurrencyCode>
+                <ExchangeRate>0.222222</ExchangeRate>
+                <WeightCharge>190.000</WeightCharge>
+                <WeightChargeTax>28.300</WeightChargeTax>
+                <TotalTransitDays>4</TotalTransitDays>
+                <PickupPostalLocAddDays>0</PickupPostalLocAddDays>
+                <DeliveryPostalLocAddDays>0</DeliveryPostalLocAddDays>
+                <PickupNonDHLCourierCode> </PickupNonDHLCourierCode>
+                <DeliveryNonDHLCourierCode> </DeliveryNonDHLCourierCode>
+                <DeliveryDate>2018-05-08</DeliveryDate>
+                <DeliveryTime>PT23H59M</DeliveryTime>
+                <DimensionalWeight>0.400</DimensionalWeight>
+                <WeightUnit>KG</WeightUnit>
+                <PickupDayOfWeekNum>5</PickupDayOfWeekNum>
+                <DestinationDayOfWeekNum>2</DestinationDayOfWeekNum>
+                <PricingDate>2018-05-04</PricingDate>
+                <ShippingCharge>190.000</ShippingCharge>
+                <TotalTaxAmount>28.300</TotalTaxAmount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                    <WeightCharge>190.000</WeightCharge>
+                    <TotalAmount>190.000</TotalAmount>
+                    <TotalTaxAmount>28.300</TotalTaxAmount>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>28.300</WeightChargeTax>
+                        <BaseAmt>161.700</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                    <WeightCharge>190.000</WeightCharge>
+                    <TotalAmount>190.000</TotalAmount>
+                    <TotalTaxAmount>28.300</TotalTaxAmount>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>28.300</WeightChargeTax>
+                        <BaseAmt>161.700</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <QtdSInAdCur>
+                    <ExchangeRate>0.222222</ExchangeRate>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                    <WeightCharge>42.220</WeightCharge>
+                    <TotalAmount>42.220</TotalAmount>
+                    <TotalTaxAmount>6.290</TotalTaxAmount>
+                    <WeightChargeTax>6.290</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>6.290</WeightChargeTax>
+                        <BaseAmt>35.930</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <WeightChargeTaxDet>
+                    <TaxTypeRate>17.500</TaxTypeRate>
+                    <TaxTypeCode>VAT</TaxTypeCode>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <BaseAmt>161.700</BaseAmt>
+                </WeightChargeTaxDet>
+            </QtdShp>
+        </BkgDetails>
+        <Srvs>
+            <Srv>
+                <GlobalProductCode>D</GlobalProductCode>
+                <MrkSrv>
+                    <LocalProductCode>D</LocalProductCode>
+                    <ProductShortName>EXPRESS WORLDWIDE</ProductShortName>
+                    <LocalProductName>EXPRESS WORLDWIDE DOC</LocalProductName>
+                    <ProductDesc>EXPRESS WORLDWIDE DOC</ProductDesc>
+                    <NetworkTypeCode>TD</NetworkTypeCode>
+                    <POfferedCustAgreement>N</POfferedCustAgreement>
+                    <TransInd>Y</TransInd>
+                </MrkSrv>
+                <MrkSrv>
+                    <LocalServiceType>FF</LocalServiceType>
+                    <GlobalServiceName>FUEL SURCHARGE</GlobalServiceName>
+                    <LocalServiceTypeName>FUEL SURCHARGE</LocalServiceTypeName>
+                    <SOfferedCustAgreement>N</SOfferedCustAgreement>
+                    <ChargeCodeType>SCH</ChargeCodeType>
+                    <MrkSrvInd>N</MrkSrvInd>
+                </MrkSrv>
+            </Srv>
+            <Srv>
+                <GlobalProductCode>7</GlobalProductCode>
+                <MrkSrv>
+                    <LocalProductCode>7</LocalProductCode>
+                    <ProductShortName>EXPRESS EASY</ProductShortName>
+                    <LocalProductName>EXPRESS EASY DOC</LocalProductName>
+                    <ProductDesc>EXPRESS EASY DOC</ProductDesc>
+                    <NetworkTypeCode>TD</NetworkTypeCode>
+                    <POfferedCustAgreement>Y</POfferedCustAgreement>
+                    <TransInd>N</TransInd>
+                </MrkSrv>
+            </Srv>
+        </Srvs>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504181656_7837_a8b232c3-e27e-4740-ac75-869e9ac60d74 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T16:17:08+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>US</CountryCode><Postalcode>60649</Postalcode><City>Chicago</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T18:17:08.234+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <BkgDetails>
+            <OriginServiceArea>
+                <FacilityCode>ACC</FacilityCode>
+                <ServiceAreaCode>ACC</ServiceAreaCode>
+            </OriginServiceArea>
+            <DestinationServiceArea>
+                <FacilityCode>MDW</FacilityCode>
+                <ServiceAreaCode>ORD</ServiceAreaCode>
+            </DestinationServiceArea>
+            <QtdShp>
+                <GlobalProductCode>D</GlobalProductCode>
+                <LocalProductCode>D</LocalProductCode>
+                <ProductShortName>EXPRESS WORLDWIDE</ProductShortName>
+                <LocalProductName>EXPRESS WORLDWIDE DOC</LocalProductName>
+                <NetworkTypeCode>TD</NetworkTypeCode>
+                <POfferedCustAgreement>N</POfferedCustAgreement>
+                <TransInd>Y</TransInd>
+                <PickupDate>2018-05-04</PickupDate>
+                <PickupCutoffTime>PT17H</PickupCutoffTime>
+                <BookingTime>PT16H</BookingTime>
+                <CurrencyCode>GHS</CurrencyCode>
+                <ExchangeRate>0.222222</ExchangeRate>
+                <WeightCharge>86.360</WeightCharge>
+                <WeightChargeTax>12.860</WeightChargeTax>
+                <TotalTransitDays>4</TotalTransitDays>
+                <PickupPostalLocAddDays>0</PickupPostalLocAddDays>
+                <DeliveryPostalLocAddDays>0</DeliveryPostalLocAddDays>
+                <PickupNonDHLCourierCode> </PickupNonDHLCourierCode>
+                <DeliveryNonDHLCourierCode> </DeliveryNonDHLCourierCode>
+                <DeliveryDate>2018-05-08</DeliveryDate>
+                <DeliveryTime>PT23H59M</DeliveryTime>
+                <DimensionalWeight>0.400</DimensionalWeight>
+                <WeightUnit>KG</WeightUnit>
+                <PickupDayOfWeekNum>5</PickupDayOfWeekNum>
+                <DestinationDayOfWeekNum>2</DestinationDayOfWeekNum>
+                <QtdShpExChrg>
+                    <SpecialServiceType>FF</SpecialServiceType>
+                    <LocalServiceType>FF</LocalServiceType>
+                    <GlobalServiceName>FUEL SURCHARGE</GlobalServiceName>
+                    <LocalServiceTypeName>FUEL SURCHARGE</LocalServiceTypeName>
+                    <SOfferedCustAgreement>N</SOfferedCustAgreement>
+                    <ChargeCodeType>SCH</ChargeCodeType>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <ChargeValue>8.640</ChargeValue>
+                    <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                    <ChargeTaxAmountDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <TaxAmount>1.290</TaxAmount>
+                        <BaseAmount>7.350</BaseAmount>
+                    </ChargeTaxAmountDet>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>8.640</ChargeValue>
+                        <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                        <CurrencyCode>GHS</CurrencyCode>
+                        <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>1.290</TaxAmount>
+                            <BaseAmount>7.350</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>8.640</ChargeValue>
+                        <ChargeTaxAmount>1.290</ChargeTaxAmount>
+                        <CurrencyCode>GHS</CurrencyCode>
+                        <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>1.290</TaxAmount>
+                            <BaseAmount>7.350</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                    <QtdSExtrChrgInAdCur>
+                        <ChargeValue>1.920</ChargeValue>
+                        <ChargeTaxRate>17.500</ChargeTaxRate>
+                        <ChargeTaxAmount>0.290</ChargeTaxAmount>
+                        <CurrencyCode>USD</CurrencyCode>
+                        <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                        <ChargeTaxAmountDet>
+                            <TaxTypeRate>17.500</TaxTypeRate>
+                            <TaxTypeCode>VAT</TaxTypeCode>
+                            <TaxAmount>0.290</TaxAmount>
+                            <BaseAmount>1.630</BaseAmount>
+                        </ChargeTaxAmountDet>
+                    </QtdSExtrChrgInAdCur>
+                </QtdShpExChrg>
+                <PricingDate>2018-05-04</PricingDate>
+                <ShippingCharge>95.000</ShippingCharge>
+                <TotalTaxAmount>14.150</TotalTaxAmount>
+                <TotalDiscount>26.950</TotalDiscount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                    <WeightCharge>86.360</WeightCharge>
+                    <TotalAmount>95.000</TotalAmount>
+                    <TotalTaxAmount>14.150</TotalTaxAmount>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>12.860</WeightChargeTax>
+                        <BaseAmt>73.500</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <TotalDiscount>26.950</TotalDiscount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                    <WeightCharge>86.360</WeightCharge>
+                    <TotalAmount>95.000</TotalAmount>
+                    <TotalTaxAmount>14.150</TotalTaxAmount>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>12.860</WeightChargeTax>
+                        <BaseAmt>73.500</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <TotalDiscount>5.990</TotalDiscount>
+                <QtdSInAdCur>
+                    <ExchangeRate>0.222222</ExchangeRate>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                    <WeightCharge>19.190</WeightCharge>
+                    <TotalAmount>21.110</TotalAmount>
+                    <TotalTaxAmount>3.140</TotalTaxAmount>
+                    <WeightChargeTax>2.860</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>2.860</WeightChargeTax>
+                        <BaseAmt>16.330</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <WeightChargeTaxDet>
+                    <TaxTypeRate>17.500</TaxTypeRate>
+                    <TaxTypeCode>VAT</TaxTypeCode>
+                    <WeightChargeTax>12.860</WeightChargeTax>
+                    <BaseAmt>73.500</BaseAmt>
+                </WeightChargeTaxDet>
+            </QtdShp>
+            <QtdShp>
+                <GlobalProductCode>7</GlobalProductCode>
+                <LocalProductCode>7</LocalProductCode>
+                <ProductShortName>EXPRESS EASY</ProductShortName>
+                <LocalProductName>EXPRESS EASY DOC</LocalProductName>
+                <NetworkTypeCode>TD</NetworkTypeCode>
+                <POfferedCustAgreement>Y</POfferedCustAgreement>
+                <TransInd>N</TransInd>
+                <PickupDate>2018-05-04</PickupDate>
+                <PickupCutoffTime>PT17H</PickupCutoffTime>
+                <BookingTime>PT16H</BookingTime>
+                <CurrencyCode>GHS</CurrencyCode>
+                <ExchangeRate>0.222222</ExchangeRate>
+                <WeightCharge>190.000</WeightCharge>
+                <WeightChargeTax>28.300</WeightChargeTax>
+                <TotalTransitDays>4</TotalTransitDays>
+                <PickupPostalLocAddDays>0</PickupPostalLocAddDays>
+                <DeliveryPostalLocAddDays>0</DeliveryPostalLocAddDays>
+                <PickupNonDHLCourierCode> </PickupNonDHLCourierCode>
+                <DeliveryNonDHLCourierCode> </DeliveryNonDHLCourierCode>
+                <DeliveryDate>2018-05-08</DeliveryDate>
+                <DeliveryTime>PT23H59M</DeliveryTime>
+                <DimensionalWeight>0.400</DimensionalWeight>
+                <WeightUnit>KG</WeightUnit>
+                <PickupDayOfWeekNum>5</PickupDayOfWeekNum>
+                <DestinationDayOfWeekNum>2</DestinationDayOfWeekNum>
+                <PricingDate>2018-05-04</PricingDate>
+                <ShippingCharge>190.000</ShippingCharge>
+                <TotalTaxAmount>28.300</TotalTaxAmount>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>BILLC</CurrencyRoleTypeCode>
+                    <WeightCharge>190.000</WeightCharge>
+                    <TotalAmount>190.000</TotalAmount>
+                    <TotalTaxAmount>28.300</TotalTaxAmount>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>28.300</WeightChargeTax>
+                        <BaseAmt>161.700</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <QtdSInAdCur>
+                    <CurrencyCode>GHS</CurrencyCode>
+                    <CurrencyRoleTypeCode>PULCL</CurrencyRoleTypeCode>
+                    <WeightCharge>190.000</WeightCharge>
+                    <TotalAmount>190.000</TotalAmount>
+                    <TotalTaxAmount>28.300</TotalTaxAmount>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>28.300</WeightChargeTax>
+                        <BaseAmt>161.700</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <QtdSInAdCur>
+                    <ExchangeRate>0.222222</ExchangeRate>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <CurrencyRoleTypeCode>BASEC</CurrencyRoleTypeCode>
+                    <WeightCharge>42.220</WeightCharge>
+                    <TotalAmount>42.220</TotalAmount>
+                    <TotalTaxAmount>6.290</TotalTaxAmount>
+                    <WeightChargeTax>6.290</WeightChargeTax>
+                    <WeightChargeTaxDet>
+                        <TaxTypeRate>17.500</TaxTypeRate>
+                        <TaxTypeCode>VAT</TaxTypeCode>
+                        <WeightChargeTax>6.290</WeightChargeTax>
+                        <BaseAmt>35.930</BaseAmt>
+                    </WeightChargeTaxDet>
+                </QtdSInAdCur>
+                <WeightChargeTaxDet>
+                    <TaxTypeRate>17.500</TaxTypeRate>
+                    <TaxTypeCode>VAT</TaxTypeCode>
+                    <WeightChargeTax>28.300</WeightChargeTax>
+                    <BaseAmt>161.700</BaseAmt>
+                </WeightChargeTaxDet>
+            </QtdShp>
+        </BkgDetails>
+        <Srvs>
+            <Srv>
+                <GlobalProductCode>D</GlobalProductCode>
+                <MrkSrv>
+                    <LocalProductCode>D</LocalProductCode>
+                    <ProductShortName>EXPRESS WORLDWIDE</ProductShortName>
+                    <LocalProductName>EXPRESS WORLDWIDE DOC</LocalProductName>
+                    <ProductDesc>EXPRESS WORLDWIDE DOC</ProductDesc>
+                    <NetworkTypeCode>TD</NetworkTypeCode>
+                    <POfferedCustAgreement>N</POfferedCustAgreement>
+                    <TransInd>Y</TransInd>
+                </MrkSrv>
+                <MrkSrv>
+                    <LocalServiceType>FF</LocalServiceType>
+                    <GlobalServiceName>FUEL SURCHARGE</GlobalServiceName>
+                    <LocalServiceTypeName>FUEL SURCHARGE</LocalServiceTypeName>
+                    <SOfferedCustAgreement>N</SOfferedCustAgreement>
+                    <ChargeCodeType>SCH</ChargeCodeType>
+                    <MrkSrvInd>N</MrkSrvInd>
+                </MrkSrv>
+            </Srv>
+            <Srv>
+                <GlobalProductCode>7</GlobalProductCode>
+                <MrkSrv>
+                    <LocalProductCode>7</LocalProductCode>
+                    <ProductShortName>EXPRESS EASY</ProductShortName>
+                    <LocalProductName>EXPRESS EASY DOC</LocalProductName>
+                    <ProductDesc>EXPRESS EASY DOC</ProductDesc>
+                    <NetworkTypeCode>TD</NetworkTypeCode>
+                    <POfferedCustAgreement>Y</POfferedCustAgreement>
+                    <TransInd>N</TransInd>
+                </MrkSrv>
+            </Srv>
+        </Srvs>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504181706_42d7_ec1c5932-cc53-4644-8a27-1bd1d2dbfb9d -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T16:21:16+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T18:21:16.286+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504182116_96ab_45b57922-29c7-4346-826a-1bd43664a90c -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T16:21:16+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-04T16:21:25+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-04</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.4</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-04T18:21:25.648+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180504182125_42d7_41bf15a6-6155-43c9-b46c-8b8355f9a39c -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-04T16:21:25+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-05T19:19:47+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.3</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-05T21:19:46.957+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180505211946_96ab_8973f094-4f0f-4c49-8c0b-daf969ff8b6c -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-05T19:19:47+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-05T19:20:26+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.3</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Ashaley Botwe</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-05T21:20:26.660+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180505212026_f701_2c889f4d-f88f-456e-8638-6e0d31dee083 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-05T19:20:26+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-05T19:20:55+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.3</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Ashaley Botwe</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-05T21:20:55.101+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180505212055_96ab_f715f1d9-f2c3-48aa-936f-52c3c6dffe7c -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-05T19:20:55+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-07T16:18:18+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-07T18:18:18.696+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180507181818_f701_cf56f0ae-ea94-495e-8ecd-1479b008faa6 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-07T16:18:18+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-07T16:18:19+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-07T18:18:19.160+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180507181819_f701_dd3683e5-98b9-4dc3-9f86-c3d4e33426b1 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-07T16:18:19+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-07T16:18:26+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-07</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-07T18:18:26.145+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180507181825_42d7_52db82cf-6c3e-4233-a5b2-9d8e4fb5cde1 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-07T16:18:26+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T07:54:22+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T09:54:22.800+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508095422_42d7_7aa42c6e-db4b-4f72-8f5f-6323f896ada1 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T07:54:22+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T07:54:35+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T09:54:35.081+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508095434_96ab_59fcc62e-c252-49b1-ad65-9954763de9d6 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T07:54:35+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T08:19:03+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T10:19:03.269+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508101903_96ab_3ae95ce6-8cf8-48af-aa6e-3f2f33015284 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T08:19:03+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T08:19:10+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.008</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T10:19:10.064+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508101909_42d7_5aac7f7d-f4d8-454f-b4d2-090c9dd2180e -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T08:19:10+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T08:21:53+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.012</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T10:21:53.228+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508102153_72ec_e58a80af-9160-4bf5-88f6-4b74bc726867 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T08:21:53+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T08:22:12+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.012</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T10:22:12.198+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508102212_72ec_03d16a9c-a050-4af4-81ea-b5cdaad17fc0 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T08:22:12+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T08:22:55+00:00 DEBUG (7): Array
+(
+    [0] => There is no items in this order
+    [__pid] => 1
+)
+
+2018-05-08T08:24:11+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T10:24:11.830+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508102411_7837_9f221476-9a91-4ff1-bf05-2b7f8f79f0d7 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T08:24:11+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T10:00:02+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T12:00:02.019+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508120001_7837_10565f3c-db94-4861-aa0a-9871006e5ff1 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T10:00:02+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T10:00:08+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T12:00:08.826+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508120008_f701_73af48b9-3476-4c09-b72c-30c25e851d2d -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T10:00:08+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T10:39:06+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T12:39:06.720+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508123906_72ec_f2740edb-55bd-4828-aae2-cb52d3825626 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T10:39:06+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-08T10:39:20+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-08</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-08T12:39:20.536+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180508123920_19d7_bf5c192d-cdfa-427e-aa48-3163b8a3fa80 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-08T10:39:20+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-09T13:26:33+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-09</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-09T15:26:33.509+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180509152633_7393_094bf8ed-b4f2-4097-b8fa-a9a2b34d13e6 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-09T13:26:33+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-09T13:26:40+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-09</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Osu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-09T15:26:40.866+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180509152640_19d7_c156b297-a49d-405e-8a8a-305e2e88583d -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-09T13:26:40+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-09T15:59:35+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-09</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-09T17:59:35.386+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180509175935_19d7_6db3c3a6-1aec-4d8e-ab79-065f1af33a2a -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-09T15:59:35+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-09T15:59:42+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-09</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-09T17:59:42.762+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180509175942_eafa_ffdae915-26a4-4f25-b881-054a41f439ff -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-09T15:59:42+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T07:12:29+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T09:12:29.400+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510091229_f701_e154b7ac-5ea9-47a7-a202-7aaae291bcc0 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T07:12:29+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T07:12:39+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T09:12:39.038+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510091238_96ab_97bade1b-5aa3-4d02-9c95-d6b34f7e1c3d -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T07:12:39+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:24:40+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:24:40.282+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142440_42d7_71ce9153-41c9-4280-a46b-cfcead94ccc6 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:24:40+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:25:08+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Madina</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:25:08.238+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142508_96ab_6a4195f5-c0cd-4f6b-b44a-5fda16d321cc -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:25:08+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:25:29+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Aborfu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:25:29.670+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142529_7837_9fb2086d-74ea-44c9-b459-402b036b5d15 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:25:29+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:26:38+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Aborfu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:26:38.466+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142638_42d7_d2843a29-bf1d-4f0c-a0aa-65a67068c13f -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:26:38+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:26:56+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Aborfu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:26:56.165+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142656_f701_7d5a895d-b51e-49c8-aa4f-1aaea1dbd483 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:26:56+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:27:12+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Aborfu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:27:12.378+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510142712_f701_a7bccb22-f248-4923-99cf-b0701fdb7879 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:27:12+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:30:01+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Aborfu</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:30:00.970+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510143000_7837_95a3b30f-94a1-4a32-b351-9627d5d67c6c -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:30:01+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:30:58+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Madina</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:30:58.349+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510143058_19d7_aeed4ba9-5945-480b-a7bd-9faa149f6335 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:30:58+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:38:19+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Madina</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:38:19.817+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510143819_72ec_fecc9998-cb61-412f-9e10-3b967ecac14f -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:38:19+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:57:26+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:57:26.242+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510145726_96ab_76aba80c-e69d-4f9e-9925-03340de1c804 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:57:26+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T12:57:38+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T14:57:38.113+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510145738_f701_9d7d90bd-e0b3-49d4-aaf8-ae46f3fb906b -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T12:57:38+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T13:07:56+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Madina</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T15:07:56.865+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510150756_7393_da86af6a-b54d-48a6-a679-d3ab5d46bd39 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T13:07:56+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T13:30:13+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City/></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T15:30:13.258+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510153013_42d7_31f3dd8b-1630-45ab-a49b-be31c5b6c072 -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T13:30:13+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+
+2018-05-10T13:30:28+00:00 DEBUG (7): Array
+(
+    [try-0] => Array
+        (
+            [request] => <?xml version="1.0" encoding="UTF-8"?>
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd "><GetQuote xmlns=""><Request><ServiceHeader><SiteID>AHOOMSTORE</SiteID><Password>GO7vfQElTw</Password></ServiceHeader></Request><From><CountryCode>GH</CountryCode><Postalcode>00233</Postalcode><City>Accra</City></From><BkgDetails><PaymentCountryCode>GH</PaymentCountryCode><Date>2018-05-10</Date><ReadyTime>PT0H00M</ReadyTime><DimensionUnit>CM</DimensionUnit><WeightUnit>KG</WeightUnit><Pieces xmlns=""><Piece xmlns=""><PieceID>1</PieceID><Weight>0.004</Weight></Piece></Pieces><PaymentAccountNumber>331041206</PaymentAccountNumber></BkgDetails><To><CountryCode>GH</CountryCode><Postalcode>233</Postalcode><City>Abeka La Paz</City></To></GetQuote></p:DCTRequest>
+
+            [from_cache] => 1
+            [response] => <?xml version="1.0" encoding="UTF-8" standalone="no"?><res:DCTResponse xmlns:res='http://www.dhl.com' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation= 'http://www.dhl.com DCT-Response.xsd'>
+    <GetQuoteResponse>
+        <Response>
+            <ServiceHeader>
+                <MessageTime>2018-05-10T15:30:28.169+01:00</MessageTime>
+                <SiteID>AHOOMSTORE</SiteID>
+            </ServiceHeader>
+        </Response>
+        <Note>
+            <Condition>
+                <ConditionCode>420505</ConditionCode>
+                <ConditionData>The destination location is invalid. Please check the data.</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>420000</ConditionCode>
+                <ConditionData>Data error</ConditionData>
+            </Condition>
+            <Condition>
+                <ConditionCode>220001</ConditionCode>
+                <ConditionData>Failure - request</ConditionData>
+            </Condition>
+        </Note>
+    </GetQuoteResponse></res:DCTResponse><!-- ServiceInvocationId:20180510153028_42d7_63824cf9-0bdc-4a59-b8c3-e1cfb35d286d -->
+
+        )
+
+    [__pid] => 1
+)
+
+2018-05-10T13:30:28+00:00 DEBUG (7): Array
+(
+    [420505] => Error #420505 : The destination location is invalid. Please check the data.
+    [__pid] => 1
+)
+

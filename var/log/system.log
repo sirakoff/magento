@@ -1,0 +1,749 @@
+2018-05-09T15:26:40+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:26:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:26:45+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:26:45+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:26:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:26:47+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:26:47+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:28:07+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:23+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:24+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:47+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:52+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:28:52+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:28:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:28:53+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:28:53+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:41:28+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:41:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:44+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:53+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:42:53+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:42:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:42:54+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:42:54+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:43:15+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:43:24+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:43:28+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:44:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:44:58+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:44:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:45:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:45:04+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:45:04+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:45:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:45:05+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:45:05+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:45:26+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:45:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:47:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:47:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:47:51+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:47:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:48:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:48:36+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:48:47+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:48:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:48:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:03+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:13+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:49:13+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:49:14+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:14+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:49:14+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:49:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:51+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:49:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:50:01+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:50:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:50:14+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:53:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:53:57+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:53:57+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:53:58+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:53:58+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:01+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:03+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:03+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:14+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:17+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:54:57+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:00+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:12+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:43+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:55:57+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:00+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:07+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:12+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:15+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:18+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:19+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:26+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:31+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:35+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:35+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:36+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:36+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:37+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:41+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:44+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:44+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:56:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:57:14+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:57:17+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:57:55+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:57:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:20+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:58:20+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:58:21+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:21+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:58:21+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:58:44+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:58:45+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:58:47+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:58:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:58+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:58:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T15:59:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-09T15:59:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-09T15:59:11+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-09T15:59:11+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:59:14+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-09T15:59:14+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-09T15:59:14+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:59:14+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T15:59:42+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-09T15:59:47+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T15:59:47+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T15:59:47+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-09T16:02:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:03:01+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:03:01+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T16:03:01+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T16:03:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:03:05+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T16:03:05+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T16:03:06+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:03:06+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T16:03:06+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T16:05:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:05:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:05:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:05:38+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:06:09+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:06:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:06:37+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:06:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:07:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:07:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:10:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:13:39+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:14:17+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:27:09+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:27:13+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:27:50+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:27:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:28:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:28:10+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:28:15+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:28:19+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:28:24+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:48:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:48:29+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T16:48:29+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T16:48:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:48:31+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T16:48:31+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T16:51:10+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:51:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:51:43+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:51:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:52:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:52:08+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:52:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:52:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:53:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:53:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:58:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:58:31+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:58:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:58:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:58:59+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:00+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:35+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:37+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:37+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:38+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:41+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:41+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T16:59:55+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:59:55+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T16:59:58+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T17:01:50+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:01:51+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:01:51+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:01:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:02:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:02:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:03:56+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:03:56+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T17:03:56+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T17:03:57+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:03:57+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T17:03:57+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T17:04:51+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:04:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:04:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:04:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:09+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:09+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:23+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:23+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:43+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:47+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:05:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:06:10+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:06:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:06:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:06:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:10:48+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:10:50+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:11:01+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:11:01+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T17:11:01+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T17:11:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-09T17:11:02+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-09T17:11:02+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-09T20:04:39+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T20:04:39+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T20:04:46+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T20:06:01+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T20:06:36+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-09T20:08:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T03:49:16+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T04:23:54+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T04:40:09+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T06:16:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T06:16:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T06:16:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T06:16:26+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T06:27:13+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T06:29:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T06:36:52+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T06:59:22+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:10:53+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:11:00+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:11:03+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:11:13+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T07:11:13+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T07:11:41+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T07:11:41+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:11:48+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T07:11:48+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T07:11:48+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:11:48+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:12:39+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T07:12:42+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T07:12:42+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T07:12:43+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T07:43:08+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:59:10+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:59:10+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T07:59:12+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:02:15+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:02:16+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:02:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:17:54+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:25:00+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:25:01+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:25:03+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:28:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:28:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:28:56+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:28:56+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:29:23+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:29:26+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T08:43:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:43:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:43:27+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:44:24+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:44:33+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:40+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:44:59+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T08:45:10+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:45:13+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:45:17+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:45:41+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:46:45+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:46:49+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:48:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:48:46+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T08:48:46+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:49:00+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T08:49:00+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:50:08+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:57:52+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:57:55+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T08:57:58+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T09:17:42+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T09:17:43+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T09:17:45+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T09:18:36+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:16+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:37+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T09:19:53+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T10:20:51+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T10:20:53+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T10:22:55+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T10:47:23+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T10:47:28+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:38:21+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:38:28+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:48:10+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:48:11+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:48:24+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:48:27+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T11:49:48+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 102
+2018-05-10T12:06:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:07:58+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:08:15+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:08:16+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:08:17+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:08:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:08:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:13:56+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:15:24+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:17:09+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:17:18+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:17:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:18:11+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:18:12+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:18:13+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:18:17+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:21:56+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:06+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:15+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:30+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:49+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:51+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:22:59+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:22:59+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:23:00+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:23:00+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:23:06+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:23:07+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:23:08+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:23:08+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:23:14+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:23:14+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:23:14+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:23:15+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:23:19+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:23:19+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:23:19+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:23:20+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:25:08+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:25:13+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:25:13+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:25:14+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:25:29+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:26:38+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:26:38+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:26:43+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:26:56+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:26:56+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:27:12+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:27:18+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:27:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:27:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:28:39+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:28:40+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:28:41+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:28:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:03+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:15+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:20+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:22+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:29:46+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:29:46+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:29:46+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:29:49+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:29:49+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:29:56+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:29:56+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:29:56+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:29:58+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:29:58+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:29:58+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:29:58+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:30:01+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:30:02+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:30:02+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:30:03+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:30:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:30:42+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:30:43+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:30:46+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:30:58+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:31:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:03+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:05+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:31:05+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:31:06+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:31:06+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:30+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:36+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:38+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:39+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:31:47+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:32:00+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:32:37+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:34:35+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:38+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:39+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:39+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:39+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:40+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:34:42+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:42+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:43+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:43+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:34:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:34:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:35:02+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:35:02+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T12:35:17+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:35:17+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:35:18+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:35:21+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:35:21+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:35:21+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:35:25+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:35:31+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:35:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:35:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:36:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:36:14+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:36:14+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:36:14+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:36:23+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:37:04+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:38:20+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:38:22+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:38:22+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:38:23+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:38:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:40:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:42:56+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:46:29+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:48:27+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:48:40+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:53:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:53:53+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:54:33+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:54:34+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:54:35+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T12:56:58+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:57:05+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:57:12+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T12:57:12+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:57:18+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T12:57:18+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:57:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:57:18+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:57:38+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:57:49+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T12:57:49+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T12:57:50+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T12:59:08+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:59:13+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:59:46+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T12:59:55+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:00:20+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T13:00:20+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T13:00:54+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:02:33+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:06:20+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T13:06:20+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:06:26+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T13:06:26+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:06:26+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:06:27+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:07:57+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:08:03+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T13:08:03+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T13:08:04+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:11:33+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:11:38+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:15:03+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:15:08+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:28:36+00:00 ERR (3): Notice: Undefined variable: ids  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T13:28:36+00:00 ERR (3): Warning: Invalid operand type was used: array_unique expects array(s)  in /projects/api/app/Providers/Mage/API/Provider/Magento/Product.php on line 51
+2018-05-10T13:28:54+00:00 ERR (3): Notice: Undefined index: parent  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 334
+2018-05-10T13:28:54+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:29:01+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T13:29:01+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:29:01+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:29:32+00:00 ERR (3): Notice: Undefined index: shipping  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 482
+2018-05-10T13:29:32+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:29:32+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:29:32+00:00 ERR (3): Notice: Undefined index: error  in /projects/api/app/Http/Controllers/BaseAPIController.php on line 20
+2018-05-10T13:30:28+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:30:31+00:00 ERR (3): Notice: Undefined index: mode  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 19
+2018-05-10T13:30:31+00:00 ERR (3): Notice: Undefined index: transactionId  in /projects/magento/app/code/local/AhoomPay/Block/Info.php on line 20
+2018-05-10T13:30:32+00:00 ERR (3): Notice: Undefined index: 0  in /projects/api/app/Providers/Mage/API/Provider/Magento/Cart.php on line 496
+2018-05-10T13:42:40+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:44:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:44:45+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:44:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:44:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:00+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:16+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:18+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:25+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:26+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:27+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:27+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:47+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:49+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:45:52+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:47:05+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:47:06+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:47:08+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:08+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:17+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:18+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:21+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:32+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:48:33+00:00 ERR (3): Notice: Array to string conversion  in /projects/magento/lib/Varien/File/Uploader.php on line 274
+2018-05-10T13:48:33+00:00 ERR (3): User Error: Some transactions have not been committed or rolled back  in /projects/magento/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 4039
+2018-05-10T13:49:02+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
+2018-05-10T13:49:04+00:00 ERR (3): Warning: Cannot find named PHP session module ()  in /projects/magento/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 81
