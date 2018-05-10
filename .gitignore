@@ -1,5 +1,2 @@
-var/cache
-var/log
-var/session
-var/package
-media/capctha
+var
+media
