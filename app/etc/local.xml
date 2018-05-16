@@ -43,8 +43,8 @@
                 <connection>
                     <host><![CDATA[mysql]]></host>
                     <username><![CDATA[root]]></username>
-                    <password><![CDATA[mallonline]]></password>
-                    <dbname><![CDATA[ahoomstore]]></dbname>
+                    <password><![CDATA[ahoomproductiondbserver@2018]]></password>
+                    <dbname><![CDATA[nallem_mooha1]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
