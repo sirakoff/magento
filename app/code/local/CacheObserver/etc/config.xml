@@ -15,6 +15,22 @@
                     </cache_observer>
                 </observers>
             </catalog_product_save_after>
+            <category_move>
+                <observers>
+                    <cache_observer>
+                        <class>CacheObserver_Model_Observer</class>
+                        <method>reloadCat</method>
+                    </cache_observer>
+                </observers>
+            </category_move>
+            <catalog_category_save_after>
+                <observers>
+                    <cache_observer>
+                        <class>CacheObserver_Model_Observer</class>
+                        <method>reloadCat</method>
+                    </cache_observer>
+                </observers>
+            </catalog_category_save_after>
         </events>
     </adminhtml>
 </config>

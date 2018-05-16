@@ -70,5 +70,33 @@ class CacheObserver_Model_Observer {
 
         }
     }
+    
+    public function reloadCat($observer)
+    {
+
+        try{
+
+            $product = $observer->getEvent()->getProduct();
+            // var_dump($product);
+
+            $key = 'categories';
+
+            if ($this->cache->has($key)) {
+
+                Mage::log("Flushing categories", 'cache_observer.log', true);
+
+                $this->cache->forget($key);
+
+            }
+
+        } catch(Exception $e){
+
+            // var_dump($e);
+
+            Mage::log($e->getMessage(), null, 'cache_observer.log', true);
+
+        }
+
+    }
 
 }
