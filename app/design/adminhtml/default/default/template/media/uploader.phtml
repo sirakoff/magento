@@ -37,8 +37,8 @@
 <div id="<?php echo $this->getHtmlId() ?>" class="uploader">
     <div class="buttons">
         <?php /* buttons included in flex object */ ?>
-        <?php  /*echo $this->getBrowseButtonHtml()*/  ?>
-        <?php  /*echo $this->getUploadButtonHtml()*/  ?>
+        <?php // echo $this->getBrowseButtonHtml()  ?>
+        <?php  //echo $this->getUploadButtonHtml()  ?>
         <div id="<?php echo $this->getHtmlId() ?>-install-flash" style="display:none">
             <?php echo Mage::helper('media')->__('This content requires last version of Adobe Flash Player. <a href="%s">Get Flash</a>', 'http://www.adobe.com/go/getflash/') ?>
         </div>
@@ -60,8 +60,8 @@
 <script type="text/javascript">
 //<![CDATA[
 
-var maxUploadFileSizeInBytes = <?php echo $this->getDataMaxSizeInBytes() ?>;
-var maxUploadFileSize = '<?php echo $this->getDataMaxSize() ?>';
+var maxUploadFileSizeInBytes = '<?php //echo $this->getDataMaxSizeInBytes() ?>24M';
+var maxUploadFileSize = '<?php //echo $this->getDataMaxSize() ?>24M';
 
 <?php echo $this->getJsObjectName() ?> = new Flex.Uploader('<?php echo $this->getHtmlId() ?>', '<?php echo $this->getUploaderUrl('media/uploader.swf') ?>', <?php echo $this->getConfigJson() ?>);
 
