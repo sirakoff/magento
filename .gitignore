@@ -1,6 +1,4 @@
 var
-<<<<<<< HEAD
 media
-=======
-media
->>>>>>> 5969ba316f4f4d3cf77d677c6e11cddab442e16b
+app/etc/config.xml
+app/etc/local.xml

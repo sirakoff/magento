@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <STM_Slider>
+            <active>true</active>
+            <codePool>local</codePool>
+        </STM_Slider>
+    </modules>
+</config>

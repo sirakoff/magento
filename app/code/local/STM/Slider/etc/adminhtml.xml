@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<config>
+    <menu>
+        <slider_menu translate="title" module="slider">
+            <title>Web Banners</title>
+            <sort_order>9999</sort_order>
+            <action>slider/index/index</action>
+        </slider_menu>
+    </menu>
+</config>

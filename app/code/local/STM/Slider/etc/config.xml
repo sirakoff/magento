@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <stm_slider>
+            <version>1.0.0</version>
+            <depends>
+                <!-- no dependencies -->
+            </depends>
+        </stm_slider>
+    </modules>
+    <global>
+        <models />
+        <blocks />
+        <resources />
+        <extraconfig />
+        <helpers>
+            <slider>
+                <class>STM_Slider_Helper</class>
+            </slider>
+        </helpers>
+    </global>
+    <admin>
+        <routers>
+            <stm_slider>
+                <use>admin</use>
+                <args>
+                    <module>STM_Slider</module>
+                    <frontName>slider</frontName>
+                </args>
+            </stm_slider>
+        </routers>
+    </admin>
+</config>

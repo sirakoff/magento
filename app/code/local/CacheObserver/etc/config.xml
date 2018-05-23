@@ -5,6 +5,14 @@
             <version>0.0.1</version>
         </CacheObserver>
     </modules>
+    <global>
+        <helpers>
+            <cacheobserver>
+                <!-- Helper definition needed by Magento -->
+                <class>Mage_Core_Helper</class>
+            </cacheobserver>
+        </helpers>
+    </global>
     <adminhtml>
         <events>
             <catalog_product_save_after><!-- observe the event -->
