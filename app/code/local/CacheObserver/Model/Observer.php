@@ -18,7 +18,7 @@ class CacheObserver_Model_Observer {
                 'driver' => 'redis',
                 'connection' => 'default'
             ],
-            'cache.prefix' => 'nallem',
+            'cache.prefix' => 'ahoom',
             'database.redis' => [
                 'cluster' => false,
                 'default' => [
