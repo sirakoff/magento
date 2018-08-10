@@ -52,13 +52,16 @@ class CacheObserver_Model_Observer {
             $product = $observer->getEvent()->getProduct();
             // var_dump($product);
 
-            $key = $this->getKey($product->getId());
+            $productId = $product->getId();
+            $key = $this->getKey($productId);
 
-            if ($this->cache->has($key)) {
+            $parentIds = Mage::getSingleton('catalog/product_type_configurable')->getParentIdsByChild($productId);
 
-                Mage::log("Flushing key ". $key, null, 'cache_observer.log', true);
+            $this->removeKey($key);
 
-                $this->cache->forget($key);
+            foreach($parentIds as $id) {
+
+                $this->removeKey($this->getKey($id));
 
             }
 
@@ -69,6 +72,18 @@ class CacheObserver_Model_Observer {
             Mage::log($e->getMessage(), null, 'cache_observer.log', true);
 
         }
+    }
+
+    protected function removeKey($key) {
+
+        if ($this->cache->has($key)) {
+
+            Mage::log("Flushing key ". $key, null, 'cache_observer.log', true);
+
+            $this->cache->forget($key);
+
+        }
+
     }
     
     public function reloadCat($observer)
